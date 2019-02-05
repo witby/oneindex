@@ -1,6 +1,6 @@
 <?php return array (
   'site_name' => 'OneIndex',
-  'password' => 'oneindex',
+  'password' => 'xmj666xmj',
   'style' => 'material',
   'onedrive_root' => '',
   'cache_type' => 'secache',
